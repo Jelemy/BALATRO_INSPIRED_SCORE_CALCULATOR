@@ -2,7 +2,7 @@
 
 A fan-made tool inspired by [**Balatro**](https://store.steampowered.com/app/2379780/Balatro/) that calculates the score of a poker hand enhanced by cards, editions, and jokers—just like in the game!
 
-Give it a hand in **YAML format** structured like the following, and it’ll putput the score.
+Give it a hand in **YAML format** structured like the following, and it’ll output the score.
 
 ```yaml
 cards_played:
