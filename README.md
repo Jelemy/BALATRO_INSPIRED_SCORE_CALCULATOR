@@ -1,4 +1,4 @@
-# 🃏 Balatro-Inspired Score Calculator
+# Balatro-Inspired Score Calculator
 
 A fan-made tool inspired by [**Balatro**](https://store.steampowered.com/app/2379780/Balatro/) that calculates the score of a poker hand enhanced by cards, editions, and jokers—just like in the game!
 
@@ -20,7 +20,6 @@ jokers:
   - Sock And Buskin Holographic
   - Zany Joker Polychrome
 ```
----
 
 ## 📥 Input Format (`.yml`)
 
@@ -31,16 +30,15 @@ The input is a `.yml` file with three sections:
 
 Each card can have multiple **enhancements** and **editions**, applied as suffixes in the same string.
 
----
 
-## 💥 Features Supported
+## Features Supported
 
-### 🃏 Illegal Poker Hands
+### Illegal Poker Hands
 - Five of a Kind  
 - Flush House  
 - Flush Five
 
-### 🛠️ Card Modifiers
+### Card Modifiers
 
 **Enhancements:**
 - Bonus  
@@ -54,7 +52,7 @@ Each card can have multiple **enhancements** and **editions**, applied as suffix
 - Holographic  
 - Polychrome  
 
-### 🎭 Supported Jokers
+### Supported Jokers
 
 **Classic Jokers:**
 - Joker  
