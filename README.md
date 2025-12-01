@@ -21,7 +21,7 @@ jokers:
   - Zany Joker Polychrome
 ```
 
-## 📥 Input Format (`.yml`)
+## Input Format (`.yml`)
 
 The input is a `.yml` file with three sections:
 - `cards_played`: a list of cards played in the current hand, each with optional enhancements and editions.
